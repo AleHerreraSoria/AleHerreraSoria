@@ -43,6 +43,13 @@ Transformo la visión estratégica de negocio en arquitecturas de datos sólidas
 - 📈 **Enfoque:** Especialista en crear dashboards que cuenten la historia detrás de los números y pipelines de datos eficientes.
 - 🇦🇷 **Ubicación:** Argentina (Disponible para trabajo remoto).
 
+## 🧠 Liderazgo y Soft Skills (25+ años de experiencia)
+
+- **Visión Estratégica**: Capacidad probada para alinear infraestructuras de datos con objetivos operativos y financieros reales.
+- **Gestión de Procesos**: Experiencia liderando equipos y optimizando flujos de trabajo en entornos de alta exigencia.
+- **Pensamiento Estadístico**: Aplicación de rigor matemático para transformar datos crudos en historias accionables.
+- **Traducción Técnica**: Habilidad para comunicar conceptos complejos de ingeniería a niveles gerenciales y de toma de decisiones.
+
 ## 📫 Contacto
 - **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-nelson-herrera-soria) 
 - **Email:** a.n.h.soria@gmail.com
