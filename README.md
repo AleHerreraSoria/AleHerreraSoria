@@ -36,6 +36,8 @@ Transformo la visión estratégica de negocio en arquitecturas de datos sólidas
 * **Descripción:** Desarrollo de una infraestructura backend profesional que migra datos de JSON a SQL, blindada con seguridad JWT y contenida en Docker.
 * **Tecnologías:** FastAPI, SQLModel, Bcrypt, Docker.
 
+![Estadísticas de Alejandro](https://github-readme-stats.vercel.app/api?username=AleHerreraSoria&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 📊 Sobre mí
