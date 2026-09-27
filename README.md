@@ -2,7 +2,8 @@
 
 ### 🚀 Data Engineer | Experto en Operaciones & Gestión | Apasionado por los Datos
 
-Transformo la visión estratégica de negocio en arquitecturas de datos sólidas y escalables. Con más de 25 años de trayectoria en administración y liderazgo de equipos en Argentina, hoy combino ese "business sense" con el rigor técnico de la ingeniería de datos.
+Transformo datos complejos en decisiones estratégicas que impactan en el negocio.
+Soy un Ingeniero de Datos y Especialista en BI con una ventaja competitiva única: más de 25 años liderando operaciones y gestión comercial. Esta trayectoria me permite aportar un Business Acumen que garantiza que cada pipeline o dashboard que construyo esté alineado con los objetivos de rentabilidad de la empresa.
 
 ---
 
