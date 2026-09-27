@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alejandro Nelson Herrera Soria
 
-### 🚀 Data Engineer Student | Experto en Operaciones & Gestión | Apasionado por los Datos
+### 🚀 Data Engineer | Experto en Operaciones & Gestión | Apasionado por los Datos
 
 Transformo la visión estratégica de negocio en arquitecturas de datos sólidas y escalables. Con más de 25 años de trayectoria en administración y liderazgo de equipos en Argentina, hoy combino ese "business sense" con el rigor técnico de la ingeniería de datos.
 
@@ -44,15 +44,15 @@ Transformo la visión estratégica de negocio en arquitecturas de datos sólidas
 
 ## 🌟 Proyecto Destacado
 
-### [API Relacional Tienda Artesanal - Production Ready](https://github.com/AleHerreraSoria/API-Relacional-con-FastAPI-de-Tienda-Artesanal-con-SQLModel-y-Docker._Production-Ready.git)
-* **Descripción:** Desarrollo de una infraestructura backend profesional que migra datos de JSON a SQL, blindada con seguridad JWT y contenida en Docker.
-* **Tecnologías:** FastAPI, SQLModel, Bcrypt, Docker.
+### [green-ai-analytics-platform](https://github.com/AleHerreraSoria/green-ai-analytics-platform)
+* **Descripción:** Plataforma E2E (Data Lakehouse) para analizar el impacto ambiental y movilidad de la IA. Arquitectura Medallion (S3) desplegada con Terraform en AWS. Ingesta híbrida orquestada con Airflow y procesamiento distribuido con PySpark. Proyecto Data Engineering.
 
 ---
 
 ## 📊 Sobre mí
-- 🎓 **Estudiante Avanzado de Ingeniería de Datos**.
-- 📈 **Enfoque:** Especialista en crear dashboards que cuenten la historia detrás de los números y pipelines de datos eficientes.
+- 🎓 **Ingeniero de Datos**.
+- 📈 **Enfoque:** Transformo datos complejos en decisiones estratégicas que impactan en el negocio.
+Soy un Ingeniero de Datos y Especialista en BI con una ventaja competitiva única: más de 25 años liderando operaciones y gestión comercial. Esta trayectoria me permite aportar un Business Acumen que garantiza que cada pipeline o dashboard que construyo esté alineado con los objetivos de rentabilidad de la empresa.
 - 🇦🇷 **Ubicación:** Argentina (Disponible para trabajo remoto).
 
 ## 🧠 Liderazgo y Soft Skills (25+ años de experiencia)
@@ -63,5 +63,5 @@ Transformo la visión estratégica de negocio en arquitecturas de datos sólidas
 - **Traducción Técnica**: Habilidad para comunicar conceptos complejos de ingeniería a niveles gerenciales y de toma de decisiones.
 
 ## 📫 Contacto
-- **LinkedIn:** [Tu Perfil de LinkedIn](https://www.linkedin.com/in/alejandro-nelson-herrera-soria) 
+- **LinkedIn:** [Link](https://www.linkedin.com/in/alejandro-nelson-herrera-soria) 
 - **Email:** a.n.h.soria@gmail.com
